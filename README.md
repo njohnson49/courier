@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Courier 
 
-Things you may want to cover:
+Simple Rails chat application utilizing ActionCable for live messaging.
 
-* Ruby version
+### Technology Stack
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Ruby 2.6.5
+* Rails 2.5.4.1
+* SQLite3
